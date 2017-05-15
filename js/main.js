@@ -40,8 +40,5 @@ function agregaPosteo() {
 	//para resetear los campos y dejarlos nuevamente en blanco.
 	document.getElementById("nombre").value = "";
 	document.getElementById("cajaposteos").value = "";
-
-
-
 }
 agregaPosteo();
